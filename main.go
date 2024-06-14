@@ -45,7 +45,7 @@ import (
 )
 
 const (
-	bootstrapServers          = `http://broker:29092/`
+	bootstrapServers          = `http://localhost:29092/`
 	schemaRegistryAPIEndpoint = `http://192.168.31.102:8081/`
 )
 
